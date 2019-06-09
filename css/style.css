@@ -51,5 +51,20 @@ div.content p{
 }
 video{
 	width:30%;
-
+	margin-right:3%; 
+}
+div.demo_i{
+	width:100%;
+	text-align: center;
+	margin: 2em;
+}
+div.demo_i div.x{
+	float:left;
+	height: 100%;
+	line-height: 100%;
+	width:15%;
+}
+div.demo_i div.v{
+	float: left;
+	width:80%;
 }
