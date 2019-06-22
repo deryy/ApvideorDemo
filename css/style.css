@@ -49,10 +49,15 @@ div.content h2{
 div.content p{
 	color:gray;
 }
-video{
-	width:30%;
-	margin-right:3%; 
+div.demo_t div.demo_ti{
+	float: left;
+	width: 30%;
+
 }
+div.demo_t div video{
+	width: 80%;
+}
+
 div.demo_i{
 	width:100%;
 	text-align: center;
@@ -68,6 +73,10 @@ div.demo_i div.x{
 div.demo_i div.v{
 	float: left;
 	width:80%;
+}
+div.demo_i video{
+	width:30%;
+	margin-right:3%; 
 }
 b{
 	color:#6495ED;
